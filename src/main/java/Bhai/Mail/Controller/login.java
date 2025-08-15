@@ -1,4 +1,4 @@
-package Bhai.Mail.Auth;
+package Bhai.Mail.Controller;
 
 import Bhai.Mail.DTO.loginDto;
 import org.springframework.web.bind.annotation.PostMapping;
